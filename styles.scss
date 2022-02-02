@@ -1,3 +1,6 @@
-p {
-  color: blue;
+@import "./variables.scss";
+@import "./sass-reset.scss";
+
+body {
+  background-color: $grayish-blue;
 }
