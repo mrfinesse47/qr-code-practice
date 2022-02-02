@@ -111,6 +111,17 @@ input {
 }
 
 body {
-  background-color: #7b879d;
+  background-color: #d6e2f0;
+}
+
+.container {
+  width: 400px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
 }
 /*# sourceMappingURL=styles.css.map */

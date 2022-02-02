@@ -2,5 +2,11 @@
 @import "./sass-reset.scss";
 
 body {
-  background-color: $grayish-blue;
+  background-color: $light-gray;
+}
+
+.container {
+  width: 400px;
+  display: flex;
+  flex-direction: column;
 }
